@@ -10,7 +10,7 @@ A friend wanted to extract some measurings for her advanced Physics lab course f
 
 &nbsp;
 <p align="center">
-<img src="examples/sec_10.8.png"/>
+<img src="examples/sec_10.8.jpg"/>
 </p>
 &nbsp;
 
@@ -19,7 +19,7 @@ Getting the size of the balloon was not that difficult. I created a mask of it b
 
 &nbsp;
 <p align="center">
-<img src="examples/led_12.2.png"/>
+<img src="examples/led_12.2.jpg"/>
 </p>
 &nbsp;
 
